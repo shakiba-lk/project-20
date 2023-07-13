@@ -1,0 +1,85 @@
+.bgi{
+    background-image: url(./aranprime-5pQZUa5W_0I-unsplash\ 1.png);
+    height: 900px;
+    width: 50%;
+
+}
+.pm{
+    padding-top: 4rem;
+    padding-left: 8rem;
+}
+.bg{
+    width:25rem ;
+    height:4.5rem ;
+    background-color: #20DC49;
+    border-radius: 5rem;
+    margin-top: 25rem;
+    margin-left: 2.4rem;
+}
+
+.bgi2{   
+background-image: url(./Rectangle\ 10.png);
+width: 50%; 
+height: 20rem;
+background-repeat: no-repeat;
+margin-left: 3rem;
+margin-top: 3rem;
+
+}
+.bg2{
+    background-color: #F0F2F5;
+    height: 900px;
+    width: 50%;
+}
+.green{
+    color: #20DC49;
+}
+.mtl{
+    margin-top: 4rem;
+    margin-left:40rem ;
+}
+.pc{
+    color: #7E7E7E;
+}
+.cm{
+    width: 12.6rem;
+    height:4.3rem ;
+    border-radius: 5px;
+border: 1px solid #20DC49;
+background: #FFF
+}
+.cm2{
+    width: 12.6rem;
+    height: 4.3rem;
+    border-radius: 5px;
+border: 1px solid #DEDEDE;
+background: #FFF;
+}
+.kh{
+    width:13rem ;
+    height:.1rem ;
+     background-color: #DBDBDB;
+}
+input[type="text"]
+{
+    width: 35rem;
+    height: 6rem;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+    padding-left: 2rem;
+}
+.mtg{
+    margin-top: 10rem;
+}
+.sbtn{
+    margin-top: 3rem;
+    width: 35rem;
+height: 6rem;
+flex-shrink: 0;
+background-color: #20DC49;
+border-radius: 1rem;
+}
+.mt-c{
+    margin-top: 10rem;
+    color: #5A5A5A;
+}
